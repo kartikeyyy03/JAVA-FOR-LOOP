@@ -15,6 +15,7 @@ public static void main(String[] args) {
 
         if(N%i==0){
             factor=factor+1;
+            
         }
 
     }
