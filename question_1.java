@@ -14,8 +14,8 @@ public class question_1 {
         if(A%i==0){factor=factor+1;}
     }
 
-    if(factor==2){System.out.println("YES");}
-    else{System.out.println("NO");}
+    if(factor==2){System.out.println(A+" is a prime number");}
+    else{System.out.println(A+" is not a prime number");}
 }
 
 
